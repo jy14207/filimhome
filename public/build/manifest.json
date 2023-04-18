@@ -1,0 +1,92 @@
+{
+  "resources/assets/back/fonts/eot/IRANSansWeb.eot": {
+    "file": "assets/IRANSansWeb-4bd6c75b.eot",
+    "src": "resources/assets/back/fonts/eot/IRANSansWeb.eot"
+  },
+  "resources/assets/back/fonts/eot/IRANSansWeb_Bold.eot": {
+    "file": "assets/IRANSansWeb_Bold-28cf1dab.eot",
+    "src": "resources/assets/back/fonts/eot/IRANSansWeb_Bold.eot"
+  },
+  "resources/assets/back/fonts/eot/IRANSansWeb_Light.eot": {
+    "file": "assets/IRANSansWeb_Light-c74a7bf7.eot",
+    "src": "resources/assets/back/fonts/eot/IRANSansWeb_Light.eot"
+  },
+  "resources/assets/back/fonts/eot/IRANSansWeb_Medium.eot": {
+    "file": "assets/IRANSansWeb_Medium-236dc93c.eot",
+    "src": "resources/assets/back/fonts/eot/IRANSansWeb_Medium.eot"
+  },
+  "resources/assets/back/fonts/eot/IRANSansWeb_UltraLight.eot": {
+    "file": "assets/IRANSansWeb_UltraLight-9d9aedab.eot",
+    "src": "resources/assets/back/fonts/eot/IRANSansWeb_UltraLight.eot"
+  },
+  "resources/assets/back/fonts/ttf/IRANSansWeb.ttf": {
+    "file": "assets/IRANSansWeb-71338159.ttf",
+    "src": "resources/assets/back/fonts/ttf/IRANSansWeb.ttf"
+  },
+  "resources/assets/back/fonts/ttf/IRANSansWeb_Bold.ttf": {
+    "file": "assets/IRANSansWeb_Bold-cdec4b5a.ttf",
+    "src": "resources/assets/back/fonts/ttf/IRANSansWeb_Bold.ttf"
+  },
+  "resources/assets/back/fonts/ttf/IRANSansWeb_Light.ttf": {
+    "file": "assets/IRANSansWeb_Light-5530d066.ttf",
+    "src": "resources/assets/back/fonts/ttf/IRANSansWeb_Light.ttf"
+  },
+  "resources/assets/back/fonts/ttf/IRANSansWeb_Medium.ttf": {
+    "file": "assets/IRANSansWeb_Medium-562dd9c9.ttf",
+    "src": "resources/assets/back/fonts/ttf/IRANSansWeb_Medium.ttf"
+  },
+  "resources/assets/back/fonts/ttf/IRANSansWeb_UltraLight.ttf": {
+    "file": "assets/IRANSansWeb_UltraLight-29752f47.ttf",
+    "src": "resources/assets/back/fonts/ttf/IRANSansWeb_UltraLight.ttf"
+  },
+  "resources/assets/back/fonts/woff/IRANSansWeb.woff": {
+    "file": "assets/IRANSansWeb-e58ca9d4.woff",
+    "src": "resources/assets/back/fonts/woff/IRANSansWeb.woff"
+  },
+  "resources/assets/back/fonts/woff/IRANSansWeb_Bold.woff": {
+    "file": "assets/IRANSansWeb_Bold-82161f64.woff",
+    "src": "resources/assets/back/fonts/woff/IRANSansWeb_Bold.woff"
+  },
+  "resources/assets/back/fonts/woff/IRANSansWeb_Light.woff": {
+    "file": "assets/IRANSansWeb_Light-32196b53.woff",
+    "src": "resources/assets/back/fonts/woff/IRANSansWeb_Light.woff"
+  },
+  "resources/assets/back/fonts/woff/IRANSansWeb_Medium.woff": {
+    "file": "assets/IRANSansWeb_Medium-9bc31757.woff",
+    "src": "resources/assets/back/fonts/woff/IRANSansWeb_Medium.woff"
+  },
+  "resources/assets/back/fonts/woff/IRANSansWeb_UltraLight.woff": {
+    "file": "assets/IRANSansWeb_UltraLight-a315316f.woff",
+    "src": "resources/assets/back/fonts/woff/IRANSansWeb_UltraLight.woff"
+  },
+  "resources/assets/back/fonts/woff2/IRANSansWeb.woff2": {
+    "file": "assets/IRANSansWeb-39cf8a16.woff2",
+    "src": "resources/assets/back/fonts/woff2/IRANSansWeb.woff2"
+  },
+  "resources/assets/back/fonts/woff2/IRANSansWeb_Bold.woff2": {
+    "file": "assets/IRANSansWeb_Bold-3507d903.woff2",
+    "src": "resources/assets/back/fonts/woff2/IRANSansWeb_Bold.woff2"
+  },
+  "resources/assets/back/fonts/woff2/IRANSansWeb_Light.woff2": {
+    "file": "assets/IRANSansWeb_Light-6a856ac5.woff2",
+    "src": "resources/assets/back/fonts/woff2/IRANSansWeb_Light.woff2"
+  },
+  "resources/assets/back/fonts/woff2/IRANSansWeb_Medium.woff2": {
+    "file": "assets/IRANSansWeb_Medium-ce51fa56.woff2",
+    "src": "resources/assets/back/fonts/woff2/IRANSansWeb_Medium.woff2"
+  },
+  "resources/assets/back/fonts/woff2/IRANSansWeb_UltraLight.woff2": {
+    "file": "assets/IRANSansWeb_UltraLight-4c77329c.woff2",
+    "src": "resources/assets/back/fonts/woff2/IRANSansWeb_UltraLight.woff2"
+  },
+  "resources/assets/back/js/app.js": {
+    "file": "assets/app-602583e5.js",
+    "isEntry": true,
+    "src": "resources/assets/back/js/app.js"
+  },
+  "resources/assets/back/sass/app.scss": {
+    "file": "assets/app-8daabff5.css",
+    "isEntry": true,
+    "src": "resources/assets/back/sass/app.scss"
+  }
+}

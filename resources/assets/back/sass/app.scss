@@ -1,0 +1,28 @@
+// Fonts
+//@import url('https://fonts.bunny.net/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import 'bootstrap/scss/bootstrap';
+
+//Fonts
+@import "fonts";
+
+//Select2
+@import "../../common/select2/select2.min.css";
+@import "../../common/jalali_date_picker/jalalidatepicker.min.css";
+
+* {
+    //font-size: small;
+    font-family: 'IRANSansWeb';
+}
+#commodity_id{
+    border: solid 1px #dee2e6 !important;
+}
+.select2-results__option{
+    font-size: 15px;
+}
+
+
